@@ -33,9 +33,9 @@ Use
 python <script>.py inputfile outputfile <1/2>
   
   
-  1- Scalar Product
+  1 option - Scalar Product
   
-  2- Matrix Product
+  2 option - Matrix Product
   
   # Input Format
   
