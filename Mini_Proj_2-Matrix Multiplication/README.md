@@ -34,6 +34,7 @@ python <script>.py inputfile outputfile <1/2>
   
   
   1- Scalar Product
+  
   2- Matrix Product
   
   # Input Format
