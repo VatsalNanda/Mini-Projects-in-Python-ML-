@@ -5,6 +5,7 @@ This project converts multiple colored images to grayscale. The file 'convert mu
 # Install Dependencies
 
 pip install opencv-python
+
 pip install os
 
 
