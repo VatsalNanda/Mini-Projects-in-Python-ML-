@@ -2,7 +2,7 @@
 This is the list of the Mini Projects done in Python -
 1) Conversion of text files to uppercase
 2) Multiply matrices with and without using numpy library
-3)
+3) Convert Multiiple images to grayscale
 4) Convert a video to grayscale
 
 
