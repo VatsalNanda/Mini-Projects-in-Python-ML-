@@ -21,6 +21,9 @@ pip install matplotlib
 | 500 * 500 | 87.8594      |0.131486
 
 
+** Matrix multiplication is faster when using numpy library
+
+
 # Result Images
 
 Can be seen in 'result images' folder
