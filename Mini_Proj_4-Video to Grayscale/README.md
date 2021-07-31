@@ -16,4 +16,4 @@ Time taken to conver  video to grayscale is 206.543 seconds. Generally, this tim
 
 python <script_name>.py input_file_name
 
-//This will output the video file in mp4
+//This will output the video file in mp4 by the name of 'Gray video'
