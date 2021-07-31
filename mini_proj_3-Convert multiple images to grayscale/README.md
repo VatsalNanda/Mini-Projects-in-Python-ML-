@@ -1,6 +1,6 @@
 # Mini_Project_in_Python-3-Converting_multiple_images to grayscale
 
-This project converts multiple colored images to grayscale. The file 'convert multiple images to grayscale.ipynb' contains all the code needed to implement the above problem. The 'cmd1.py'is a command line solution for the same problem. The 'result1.png', 'result2.png' and 'result3.png' are some of the graphical and tabular results executed in the python file. The 'image.jpeg' is one of the sample colored images we took and 'image9299.jpeg' is one sample grayscale image we got.
+This project converts multiple colored images to grayscale. The file 'convert multiple images to grayscale.ipynb' contains all the code needed to implement the above problem. The 'cmd1.py'is a command line solution for the same problem. The 'result1.png', 'result2.png' and 'result3.png' are some of the graphical and tabular results executed in the python file. The 'n02109961_16718.jpg' is one of the sample colored images we took and 'n02109961_16718_gray.jpg' is one sample grayscale image we got.
 
 # Install Dependencies
 
