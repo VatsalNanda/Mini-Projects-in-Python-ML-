@@ -1,4 +1,4 @@
-Minor Projects under guidance of Dr. Prashant Singh Rana (Professor at TIET)
+Minor Python and Machine Learning (ML) Projects under guidance of Dr. Prashant Singh Rana (Professor at TIET)
 
 # Mini-Projects-in-Python-ML-
 This is the list of the Mini Projects done in Python -
