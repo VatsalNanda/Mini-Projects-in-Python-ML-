@@ -6,6 +6,7 @@ This is the list of the Mini Projects done in Python -
 2) Multiply matrices with and without using numpy library
 3) Convert Multiple images to grayscale
 4) Convert a video to grayscale
+5) Convert multiple videos to grayscale
 
 
 More Projects will be added soon ...
