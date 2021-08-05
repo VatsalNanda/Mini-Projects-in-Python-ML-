@@ -24,7 +24,7 @@ pip install os
 
 # Result Images
 
-Is present in 'Result.png
+<img width="677" src="https://github.com/VatsalNanda/Mini-Projects-in-Python-ML-/blob/main/Mini_Proj_5-Convert%20multiple%20videos%20to%20grayscale/Result.png">
 
 # Command line solution
 
