@@ -26,7 +26,13 @@ pip install matplotlib
 
 # Result Images
 
-Can be seen in 'result images' folder
+**Matrix multiplication without numpy**
+<img width="677" src="https://github.com/VatsalNanda/Mini-Projects-in-Python-ML-/blob/main/Mini_Proj_2-Matrix%20Multiplication/result%20images/result_without_numpy.png">
+
+
+**Matrix multiplication with numpy**
+<img width="677" src="https://github.com/VatsalNanda/Mini-Projects-in-Python-ML-/blob/main/Mini_Proj_2-Matrix%20Multiplication/result%20images/result_using_numpy.png">
+
 
 
 # Command Line Solution
