@@ -28,7 +28,11 @@ pip install os
 
 # Result Images
 
-Are present in 'result1.png', 'result2.png' and 'result3.png'
+<img width="677" src="https://github.com/VatsalNanda/Mini-Projects-in-Python-ML-/blob/main/Mini_Proj_3-Convert%20multiple%20images%20to%20grayscale/result1.png">
+
+<img width="677" src="https://github.com/VatsalNanda/Mini-Projects-in-Python-ML-/blob/main/Mini_Proj_3-Convert%20multiple%20images%20to%20grayscale/result2.png">
+
+<img width="677" src="https://github.com/VatsalNanda/Mini-Projects-in-Python-ML-/blob/main/Mini_Proj_3-Convert%20multiple%20images%20to%20grayscale/result3.png">
 
 # Command line solution
 
