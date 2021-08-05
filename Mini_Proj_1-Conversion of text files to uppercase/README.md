@@ -22,7 +22,15 @@ pip install matplotlib
 
 # Result Images
 
-Can be seen in 'result1.png' and 'result2.png'
+<img width="677" alt="result1" src="https://user-images.githubusercontent.com/54484624/128377542-8ff638a5-375e-433c-ba99-fe7a68fe0aed.png">
+
+<img width="677" alt="result1" src="https://github.com/VatsalNanda/Mini-Projects-in-Python-ML-/blob/main/Mini_Proj_1-Conversion%20of%20text%20files%20to%20uppercase/result2.png">
+
+
+
+
+
+
 
 
 # Command Line Solution
