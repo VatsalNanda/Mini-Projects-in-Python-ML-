@@ -8,6 +8,7 @@ This is the list of the Mini Projects done in Python -
 4) Convert a video to grayscale
 5) Convert multiple videos to grayscale
 6) Higher dimension matrix multiplication using numpy Library
+7) Convert multiple text files to uppercase using multi-threading
 
 
 More Projects will be added soon ...
