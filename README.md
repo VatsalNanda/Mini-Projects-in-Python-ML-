@@ -12,6 +12,7 @@ This is the list of the Mini Projects done in Python -
 8) Convert multiple image files to grayscale using multi-threading
 9) Convert multiple videos to grayscale using multi-threading
 10) Download multiple images from google and send the zip file to the desired email-ID
+11) Download multiple videos from youtube and send the zip file to the desired email-ID after creating a mashup.
 
 
 More Projects will be added soon ...
