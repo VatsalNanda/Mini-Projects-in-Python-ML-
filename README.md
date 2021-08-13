@@ -11,6 +11,7 @@ This is the list of the Mini Projects done in Python -
 7) Convert multiple text files to uppercase using multi-threading
 8) Convert multiple image files to grayscale using multi-threading
 9) Convert multiple videos to grayscale using multi-threading
+10) Download multiple images from google and send the zip file to the desired email-ID
 
 
 More Projects will be added soon ...
