@@ -26,3 +26,7 @@ You might run into an error while sending your e-mail through python (only for g
 # Command line run 
 
 <img width="677" src="https://github.com/VatsalNanda/Mini-Projects-in-Python-ML-/blob/main/Mini_Proj_10-Download_google_images/command_line_run.png">
+
+# Web page Preview
+
+<img width="677" src="https://github.com/VatsalNanda/Mini-Projects-in-Python-ML-/blob/main/Mini_Proj_10-Download_google_images/web_page.png">
