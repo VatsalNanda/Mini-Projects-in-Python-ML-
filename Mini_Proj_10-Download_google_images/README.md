@@ -8,7 +8,7 @@ In this project we ask the user to enter the name of the element for which they 
 'email_send.py'-Email the zip folder to the desired mail ID.
 'command_line_run.png'- Shows us how we run these files in command line.
 
-We ran all the python files in one single file 'email_send.py' after importing their contents in it.
+We ran all the python files in one single file 'email_send.py' after importing their contents in it. We ran this on the local host using **Flask**.
 
 # Installing Dependencies
 
@@ -17,6 +17,8 @@ Do not pip install google_images_download
 
 Use
 pip install git+https://github.com/Joeclinton1/google-images-download
+
+pip install flask
 
 # Note-
 You might run into an error while sending your e-mail through python (only for gmail users) and that might be because you might not have turned on "Less secure app access". Go to this link https://support.google.com/accounts/answer/6010255?hl=en and enable it.
