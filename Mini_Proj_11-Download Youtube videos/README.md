@@ -9,7 +9,7 @@ In this project we ask the user to enter the name of the singer for which we cre
 'email_send.py'-Email the zip folder to the desired mail ID.
 'command_line_run.png'- Shows us how we run these files in command line.
 
-We ran all the python files in one single file 'email_send.py' after importing their contents in it.
+We ran all the python files in one single file 'email_send.py' after importing their contents in it. We ran it locally using **Flask**.
 
 # Installing Dependencies
 
@@ -25,7 +25,13 @@ pip install mutagen
 
 pip install pydub
 
+pip install flask
+
 
 # Note-
 You might run into an error while sending your e-mail through python (only for gmail users) and that might be because you might not have turned on "Less secure app access". Go to this link https://support.google.com/accounts/answer/6010255?hl=en and enable it.
 
+
+# Web App Preview
+
+<img width=677 src="https://github.com/VatsalNanda/Mini-Projects-in-Python-ML-/blob/main/Mini_Proj_11-Download%20Youtube%20videos/Web_Page.png">
